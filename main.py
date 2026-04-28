@@ -25,7 +25,7 @@ def home():
     </head>
     <body>
         <div class="container">
-            <h1>🚀 DeployFlow</h1>
+            <h1>🚀 DeployFlow V2</h1>
             <p>Automated CI/CD Pipeline on AWS</p>
             <div class="badge">✅ Deployment Successful</div>
             <p style="margin-top: 20px; font-size: 12px;">Built with FastAPI · Docker · GitHub Actions · AWS EC2</p>
