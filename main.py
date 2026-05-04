@@ -341,7 +341,7 @@ HTML_PAGE = """
     <div class="container">
         <div class="header">
             <div class="logo">🐙</div>
-            <h1>GitHub Profile Card</h1>
+            <h1>gitHub Profile Card</h1>
             <p class="subtitle">Discover any developer's GitHub profile</p>
         </div>
         
